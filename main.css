@@ -1,0 +1,21 @@
+body{
+  background-color: white;
+}
+
+.container{
+    padding-top: 5%;
+    /* background-color: yellow; */
+}
+
+.row{
+  padding: 20px;
+  /* background-color: blue; */
+}
+
+.col-md{
+    background-color: green;
+}
+
+.photo{
+  width: 100%;
+}
